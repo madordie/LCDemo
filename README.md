@@ -1,5 +1,7 @@
 # 这只是一个会报错的demo
 
+[leancloud/objc-sdk: issues 562](https://github.com/leancloud/objc-sdk/issues/562)
+
 # 环境
 
 - `pod`: 1.7.4
